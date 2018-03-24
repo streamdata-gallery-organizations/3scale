@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: 3scale.api.streamdata.gallery
+title: Streamdata Gallery 3scale
+url: 3scale.streamdata.gallery
 tag: 3scale
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: 3scale
 github_branch: master
 collections:
