@@ -2255,36 +2255,4 @@
                   "value": "%7B%7D",
                   "disabled": false
                 },
-                {
-                  "key": "provider_key",
-                  "value": "%7B%7D",
-                  "disabled": false
-                }
-              ],
-              "variable": [
-                {
-                  "id": "id",
-                  "value": "{}",
-                  "type": "string"
-                }
-              ]
-            },
-            "method": "PUT",
-            "body": {
-              "mode": "raw"
-            },
-            "description": "Activedocs json spec update."
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "490cb4f2-db81-4a6c-9baa-0493eacfafb5"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+   
