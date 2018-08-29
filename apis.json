@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - 3scale",
+	"description": "This is a repository of 3scale APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/3scale.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://3scale.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "3scale",
+			"x-api-slug": "3scale",
+			"description": "3scales API Management platform gives you the tools you need to take control of your API. Trusted by more customers than any other vendor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg",
+			"humanURL": "http://3scale.net",
+			"baseURL": "https://su1.3scale.net//",
+			"tags": "3scale",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/3scale/master/_listings/3scale/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "3scale",
+	"include": [
+		{
+			"name": "3scale",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/3scale/master/_listings/3scale/apis.yaml"
+		}
+	]
+}
