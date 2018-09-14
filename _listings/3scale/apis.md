@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.j
 x-kinRank: "10"
 x-alexaRank: "333433"
 tags: 3scale
-created: "2018-08-29"
-modified: "2018-08-29"
+created: "2018-09-14"
+modified: "2018-09-14"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/3scale/master/_listings/3scale/apis.md
 specificationVersion: "0.14"
 apis:
